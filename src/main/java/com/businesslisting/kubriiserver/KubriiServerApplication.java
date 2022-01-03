@@ -10,7 +10,7 @@ public class KubriiServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(KubriiServerApplication.class, args);
-		System.out.println("Eureka Server started.");
+		System.out.println("Eureka Server started......Microservice on go.......");
 	}
 
 }
